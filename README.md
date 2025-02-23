@@ -1,2 +1,2 @@
 # PowerWget_wget-server
-Wget for Power apps.
+Wget server for Power apps.
